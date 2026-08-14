@@ -14,7 +14,7 @@ Auf privaten Rechnern verwende ich ausschließlich freie Betriebssysteme und Anw
 
 ## Ein paar aktuelle bzw. "spannende"" Projekte in diesem Repository
 
-
+| | |
 | --------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <img title="" src="https://github.com/boerge42/GPS-Clock-NTP-Server/raw/main/images/oled.jpg" alt="" width="227" data-align="inline">               | [**GPS-Clock-NTP-Server**](https://github.com/boerge42/GPS-Clock-NTP-Server)<br/><br/>Eine Uhr & NTP-Server auf Basis ESP32-P4-ETH und eines GPS-Moduls (mit PPS-Signal).                                                                                                         |
 | <img title="" src="https://github.com/boerge42/circleclock/raw/main/circle_clock_display.png" alt="" width="227" data-align="inline">               | [**circleclock**](https://github.com/boerge42/circleclock)<br/><br/>Eine Uhr mit einem etwas anderem Ziffernblatt...                                                                                                                                                              |
