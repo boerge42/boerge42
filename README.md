@@ -36,8 +36,6 @@ Here are some ideas to get you started:
 
 [**...und hier zur Übersicht aller meine GitHub-Repositories...**](https://github.com/boerge42?tab=repositories)
 
-
-
 ---
 
 Have fun!
